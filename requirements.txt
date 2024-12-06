@@ -12,3 +12,4 @@ scipy~=1.7.3
 python_speech_features~=0.6
 opencv-python~=4.7.0.68
 pyglet~=1.5
+streamlit==1.40.2

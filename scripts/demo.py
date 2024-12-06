@@ -1,6 +1,6 @@
 import os
 import sys
-# os.environ["PYOPENGL_PLATFORM"] = "egl"
+os.environ["PYOPENGL_PLATFORM"] = "egl"
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 sys.path.append(os.getcwd())
 
